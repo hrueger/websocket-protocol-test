@@ -1,0 +1,13 @@
+{
+  "name": "websocket-protocol-test",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node-dev index.ts"
+  },
+  "dependencies": {
+    "@types/ws": "^7.4.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4",
+    "ws": "^7.4.4"
+  }
+}
